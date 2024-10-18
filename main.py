@@ -25,7 +25,7 @@
 #     array.append(randomNumber)
 # print(array)
 
-# task 3
+# ?task 3
 import random
 
 arrayLength = int(input("Введите размер массива"))
